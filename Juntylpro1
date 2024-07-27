@@ -1,0 +1,9 @@
+git remote add origin https://github.com/juntylpro1/Microchip-technology-inc.git
+git branch -M main
+git push -u origin mainhttps://github.com/juntylpro1/Microchip-technology-inc.gitREADME.mdecho "# Microchip-technology-inc" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/juntylpro1/Microchip-technology-inc.git
+git push -u origin main6juntylpro1-patch-1
